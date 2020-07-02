@@ -9,3 +9,7 @@ output from the solution should be within 5 seconds
 output from the solution should be within 5 seconds
 
 ![](Screenshot/BeforeWireOverlap.JPG)
+
+![](Screenshot/AfterSnapToGrid.JPG)
+
+![](Screenshot/Pin&Bubble.JPG)
