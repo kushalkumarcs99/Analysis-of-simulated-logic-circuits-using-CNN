@@ -8,4 +8,4 @@ components must be free of cost and free to distribute for internal R&D. Expecte
 output from the solution should be within 5 seconds
 output from the solution should be within 5 seconds
 
-![](Screenshot/BeforeWireOverlap.jpg)
+![](Screenshot/BeforeWireOverlap.JPG)
