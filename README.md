@@ -6,9 +6,8 @@ them and returns the discrepancies.
 The solution should work on Windows platform Win7 and above OS, any 3rd party
 components must be free of cost and free to distribute for internal R&D. Expected
 output from the solution should be within 5 seconds
-output from the solution should be within 5 seconds
 
-#Sample images of the project
+# Sample images of the project
 ![](Screenshot/BeforeWireOverlap.JPG)
 
 ![](Screenshot/AfterSnapToGrid.JPG)
